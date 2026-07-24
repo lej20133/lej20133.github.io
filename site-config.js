@@ -17,10 +17,10 @@ window.SITE_CONFIG = {
   courseTitle: "데이터베이스 실습",
 
   // 선생님 성함
-  teacherName: "홍길동",
+  teacherName: "임은진",
 
   // 학교(소속) 이름
-  schoolName: "한국중학교",
+  schoolName: "동백고등학교",
 
   // 학기 표시
   semester: "2026학년도 1학기",
